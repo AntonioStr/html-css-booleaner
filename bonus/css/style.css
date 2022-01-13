@@ -1,0 +1,97 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    position: relative;
+}
+
+.container {
+    margin: auto 200px;
+}
+
+/* Header */
+
+.bg-h {
+    background-image: url("../img/pattern.png");
+    background-color: #4ea0ff;
+    height: 150px;
+}
+
+#logo {
+    width: 10%;
+    position: absolute;
+    left: 10px;
+    bottom: 10px;
+    margin: auto 200px;
+}
+
+/* Main */
+
+.ma-bo {
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+/* Colori testo */
+
+.grey {
+    color: grey;
+}
+
+.t1 {
+    font-size: 20px;
+}
+
+.t2 {
+    font-size: 13px;
+}
+
+.t3 {
+    font-size: 17px;
+}
+
+.bg-ye {
+    background-color: yellow;
+}
+
+/* tabella */
+
+table {
+    border-spacing: 0;
+}
+
+th {
+    background-color: #5fbfe8;
+    color: white;
+    width: 1000px;
+}
+
+.li-blue {
+    background-color: #b1e5f2;
+}
+
+/* Footer */
+
+.box {
+    width: 300px;
+    height: 200px;
+    color: white;
+    font-weight: 700;
+    padding: 20px;
+    font-size: 20px;
+}
+
+.foo-1{
+    background-image: url(../img/monitor.jpg);
+}
+
+.foo-2{
+    background-image: url(../img/graph.jpg);
+}
