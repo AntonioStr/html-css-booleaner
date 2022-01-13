@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    position: relative;
+}
+
+/* header */
+
+.bg-h{
+    background-image: url("../img/pattern.png");
+    background-color: #4ea0ff;
+    height: 150px;
+}
+
+#logo{
+    width: 10%;
+    position: absolute;
+    left: 10px;
+    bottom: 10px;
+}
