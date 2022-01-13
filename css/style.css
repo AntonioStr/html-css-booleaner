@@ -19,3 +19,21 @@
     left: 10px;
     bottom: 10px;
 }
+
+/* main */
+
+.grey{
+    color: grey;
+}
+
+.t1{
+    font-size: 30px;
+}
+
+h1 {
+    font-size: 70px;
+}
+
+a:link {
+    text-decoration: none;
+  }
