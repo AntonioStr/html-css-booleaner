@@ -7,13 +7,13 @@
 
 /* header */
 
-.bg-h{
+.bg-h {
     background-image: url("../img/pattern.png");
     background-color: #4ea0ff;
     height: 150px;
 }
 
-#logo{
+#logo {
     width: 10%;
     position: absolute;
     left: 10px;
@@ -22,16 +22,8 @@
 
 /* main */
 
-.grey{
-    color: grey;
-}
-
-.t1{
-    font-size: 20px;
-}
-
-.t2{
-    font-size: 13px;
+.ma-bo {
+    margin-bottom: 15px;
 }
 
 h1 {
@@ -41,3 +33,46 @@ h1 {
 a:link {
     text-decoration: none;
 }
+
+/* colori testo */
+
+.grey {
+    color: grey;
+}
+
+.t1 {
+    font-size: 20px;
+}
+
+.t2 {
+    font-size: 13px;
+}
+
+.t3 {
+    font-size: 17px;
+}
+
+.bg-ye {
+    background-color: yellow;
+}
+
+/* tabella */
+
+table {
+    border-spacing: 0;
+}
+
+
+th {
+    background-color: #5fbfe8;
+    color: white;
+    width: 1000px;
+}
+
+
+.li-blue {
+    background-color: #b1e5f2;
+}
+
+
+
